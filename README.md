@@ -1,5 +1,5 @@
 # Booksharing_web
-database mysql+web(php, html, css)
+web-app in (php, html, css, js) + bootstrap + mysql
 
 This is a web application that allows users to share their printed books, 
 get points for it and spend them on books from a large list of the service's library, 
